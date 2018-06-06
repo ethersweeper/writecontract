@@ -1,2 +1,2 @@
-# writecontract
-Write Contract
+# Write Contract
+Ethereum write contract
